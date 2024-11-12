@@ -1,1 +1,2 @@
 
+game.resize_images()
